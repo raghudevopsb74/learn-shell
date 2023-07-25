@@ -17,4 +17,5 @@ echo ADD of 2+2 = $ADD
 
 # Access environment variables
 echo Username - $USER
+echo Env Var abc - $abc
 
